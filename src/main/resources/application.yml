@@ -1,0 +1,10 @@
+spring:
+  mail:
+    host: smtp.poczta.onet.pl
+    port: 465
+    username: testerjava1996@op.pl
+    password: 1JavaStart1
+    properties:
+      mail.smtp.ssl.enable: true
+      smtp:
+        auth: true
